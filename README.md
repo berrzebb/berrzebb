@@ -17,6 +17,7 @@
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 
 [![Blog](https://img.shields.io/badge/blog-astralgate.net-1a1a2e?style=flat-square&logo=ghost)](https://blog.astralgate.net)
+![Profile Views](https://komarev.com/ghpvc/?username=berrzebb&style=flat-square&color=1a1a2e)
 
 </div>
 
@@ -97,6 +98,13 @@ Claude Code ↔ Slack 브릿지 MCP. 에이전트 팀이 Slack 채널에서 협�
 ---
 
 <div align="center">
+
+### 📈 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=berrzebb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berrzebb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=berrzebb&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 *Since 2011 · Seongnam, Korea*
 
